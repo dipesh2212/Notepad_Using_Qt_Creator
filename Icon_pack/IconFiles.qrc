@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icon.png</file>
+        <file>bold.png</file>
+        <file>super.png</file>
+        <file>sub.png</file>
+        <file>Screenshot 2022-10-14 at 3.13.04 AM (1).png</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>files.png</file>
+        <file>paste.png</file>
+        <file>open.png</file>
+        <file>New.png</file>
+        <file>save.png</file>
+        <file>saveas.png</file>
+        <file>underline.png</file>
+        <file>italic.png</file>
+    </qresource>
+</RCC>
